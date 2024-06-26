@@ -3,8 +3,11 @@
 
 ### Contacts
 > Location: Krakow, Poland
+
 > E-mail: melnichuk.olga7@gmail.com
+
 > GitHub: bad-tea-bag
+
 > Linkedin: olga-melnichuk 
 
 ### About me
@@ -21,6 +24,10 @@ I'm Olga Melnichuk, a Junior Frontend Developer. Currently, I'm working as an Au
 
 ### Foreign languages
 **English** - Intermediate 
+
+### Work experience
+**2018 - 2021** Manual QA Engineer
+**2021 - now** Automation QA Engineer(Java)
 
 ### Code example
 ```
