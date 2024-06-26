@@ -1,16 +1,15 @@
 
----
 # Olga Melnichuk
----
+
 ### Contacts
 > Location: Krakow, Poland
 > E-mail: melnichuk.olga7@gmail.com
 > GitHub: bad-tea-bag
-> Linkedin: olga-melnichuk
----
+> Linkedin: olga-melnichuk 
+
 ### About me
 I'm Olga Melnichuk, a Junior Frontend Developer. Currently, I'm working as an Automation QA Engineer(Java), but I'd like to try something new so I decided to start JavaScript/Front-end pre-school course at RS School and learn front-end.
----
+
 ### Skills
 - HTML, CSS, JS (basic knowledges)
 - Java, TestNG, Selenium
@@ -19,10 +18,10 @@ I'm Olga Melnichuk, a Junior Frontend Developer. Currently, I'm working as an Au
 - SDLC and methodologies (agile, scrum, kanban)
 - Jira, Bug Reporting
 - Adobe After Effect
----
+
 ### Foreign languages
 **English** - Intermediate 
----
+
 ### Code example
 ```
 function censor() {
