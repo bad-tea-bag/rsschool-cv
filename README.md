@@ -1,1 +1,1 @@
-https://bad-tea-bag.github.io/rsschool-cv/cv
+https://bad-tea-bag.github.io/rsschool-cv/
